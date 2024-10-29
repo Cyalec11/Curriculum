@@ -70,6 +70,7 @@ header p{
     padding: 20px;
     margin: 0 auto;
     text-align: center;
+    width: 50%;
 
 
 }
@@ -156,6 +157,9 @@ header p{
     }
 #contenido{
     flex-direction: column;
+}
+.persona{
+    width: 100%;
 }
     }
 
